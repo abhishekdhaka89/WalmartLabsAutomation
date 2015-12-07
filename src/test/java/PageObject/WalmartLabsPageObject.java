@@ -25,7 +25,7 @@ public class WalmartLabsPageObject {
 	}
 	public void setBrowser() {
 	// open the browser
-		System.setProperty("webdriver.chrome.driver", "/chrome_driver/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "chrome_driver/chromedriver.exe");
 		driver = new ChromeDriver();
 	}
 	public void openUrl() throws InterruptedException {

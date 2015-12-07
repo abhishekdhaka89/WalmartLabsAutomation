@@ -102,3 +102,31 @@
 2015-12-07 14:37:10 INFO  WalmartLabsTest:50 - toys Expected Product ID: 42208838
 2015-12-07 14:37:11 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
 2015-12-07 14:37:16 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:20:06 INFO  WalmartLabsDataProvider:24 - starting WalMart e-commerce end to end Transaction
+2015-12-07 15:21:05 INFO  WalmartLabsPageObject:60 - Logged in SuccessFully and looking for tv
+2015-12-07 15:22:11 INFO  WalmartLabsTest:49 - tv Actual Product ID: 25059351
+2015-12-07 15:22:11 INFO  WalmartLabsTest:50 - tv Expected Product ID: 25059351
+2015-12-07 15:22:11 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
+2015-12-07 15:22:17 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:23:07 INFO  WalmartLabsPageObject:60 - Logged in SuccessFully and looking for socks
+2015-12-07 15:23:44 INFO  WalmartLabsTest:49 - socks Actual Product ID: 25710662
+2015-12-07 15:23:44 INFO  WalmartLabsTest:50 - socks Expected Product ID: 25710662
+2015-12-07 15:23:44 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
+2015-12-07 15:23:50 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:24:29 INFO  WalmartLabsPageObject:60 - Logged in SuccessFully and looking for dvd
+2015-12-07 15:25:04 INFO  WalmartLabsTest:49 - dvd Actual Product ID: 33396346
+2015-12-07 15:25:04 INFO  WalmartLabsTest:50 - dvd Expected Product ID: 33396346
+2015-12-07 15:25:04 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
+2015-12-07 15:25:09 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:25:36 INFO  WalmartLabsPageObject:60 - Logged in SuccessFully and looking for iPhone
+2015-12-07 15:26:22 INFO  WalmartLabsTest:49 - iPhone Actual Product ID: 39665237
+2015-12-07 15:26:22 INFO  WalmartLabsTest:50 - iPhone Expected Product ID: 39665237
+2015-12-07 15:26:22 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
+2015-12-07 15:26:27 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:27:03 INFO  WalmartLabsPageObject:60 - Logged in SuccessFully and looking for toys
+2015-12-07 15:28:07 INFO  WalmartLabsTest:49 - toys Actual Product ID: 42208838
+2015-12-07 15:28:07 INFO  WalmartLabsTest:50 - toys Expected Product ID: 42208838
+2015-12-07 15:28:07 INFO  WalmartLabsTest:56 - Validated the item added in the cart and is the only item in the cart
+2015-12-07 15:28:12 INFO  WalmartLabsTest:60 - Item removed from the cart
+2015-12-07 15:46:12 INFO  WalmartLabsDataProvider:24 - starting WalMart e-commerce end to end Transaction
+2015-12-07 15:49:56 INFO  WalmartLabsDataProvider:24 - starting WalMart e-commerce end to end Transaction
