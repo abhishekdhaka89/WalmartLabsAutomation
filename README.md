@@ -13,7 +13,6 @@ Scenario to automate:
 3. Identify an item from the result set that you can add to cart
 
 4. Add the item to cart
-
 5. Validate that item added is present in the cart and is the only item in the cart
 
 
