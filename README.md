@@ -18,7 +18,7 @@ Scenario to automate:
 
 
 
-Test Data:
+TEST DATA:
 
 • Account details: 
   
@@ -30,14 +30,15 @@ Test Data:
 
 
 
-Progamming Language:
+PROGRAMMING LANGUAGE:
 
 Java : Selenium Web Driver using Page object Model for the automating the end to end flow
 
 TestNG : For executing test cases
 
 
-Steps for end to end automation
+STEPS FOR END TO END AUTOMATION
+
 1. Login using existing account
 
   a. Setting up the browser
@@ -86,5 +87,10 @@ Steps for end to end automation
   f. If all the above validation are passed, then we remove the item from the cart to make the cart empty.
   
   g. Close the browser.
+  
+  
+  LIBRARRIES:
+  
+  Maven project is created for this assignment. All the required dependencies are added in the pom.xml file.
   
 
