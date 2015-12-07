@@ -87,10 +87,53 @@ STEPS FOR END TO END AUTOMATION
   f. If all the above validation are passed, then we remove the item from the cart to make the cart empty.
   
   g. Close the browser.
+
+DATA PROVIDER:
+
+Data is provided using data layer.
+
+All the data needed for automation is provided in the excel sheet and is retrieved from there while testing.
+
   
+LIBRARIES:
   
-  LIBRARRIES:
+Maven project is created for this assignment. All the required dependencies are added in the pom.xml file.
   
-  Maven project is created for this assignment. All the required dependencies are added in the pom.xml file.
+EXTRA SCENARIO HANDLED:
+
+Removing the item from the cart after validation.
+
+Handling scenario if the selected item is out of stock.
+
+
+OTHER TEST SCENARIOS THAT CAN BE AUTOMATED IN FUTURE:
+
+Testing on different browsers.
+
+Running automation in parallel.
+
+Testing with no internet connection.
+
+When the selected item is out of stock, we need to go back and select a new item rather than just saying out of stock.
+
+Searching an item which doesn't exist.
+
+If an item is already present in the cart then quantity validation requires some changes. As we need to check the quantity
+of the item corresponding to selected item product id.
+
+Automating the new account creation.
+
+
+
+TECHNICAL CHOICES:
+
+Maven is used for adding all required dependencies.
+
+Data is fetched using the excel file so it makes easy for us to add other serach key words for our testing.
+
+Page Object Model is used which provides ease of maintenance, clear separation between test code and navigation code and
+also provides easy readibility.
+
+
   
 
