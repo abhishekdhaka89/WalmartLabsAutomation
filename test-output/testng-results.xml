@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="429714" started-at="2015-12-07T19:30:08Z" finished-at="2015-12-07T19:37:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="429714" started-at="2015-12-07T19:30:08Z" finished-at="2015-12-07T19:37:18Z">
+      <class name="TestClasses.WalmartLabsTest">
+        <test-method status="PASS" signature="testWalmartAutomation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClasses.WalmartLabsTest@4c203ea1]" name="testWalmartAutomation" duration-ms="64955" started-at="2015-12-07T14:30:09Z" data-provider="WalMart e-commerce Transaction" finished-at="2015-12-07T14:31:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhishek.dhaka28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmartAutomation -->
+        <test-method status="PASS" signature="testWalmartAutomation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClasses.WalmartLabsTest@4c203ea1]" name="testWalmartAutomation" duration-ms="90182" started-at="2015-12-07T14:31:14Z" data-provider="WalMart e-commerce Transaction" finished-at="2015-12-07T14:32:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhishek.dhaka28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[socks]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmartAutomation -->
+        <test-method status="PASS" signature="testWalmartAutomation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClasses.WalmartLabsTest@4c203ea1]" name="testWalmartAutomation" duration-ms="74312" started-at="2015-12-07T14:32:44Z" data-provider="WalMart e-commerce Transaction" finished-at="2015-12-07T14:33:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhishek.dhaka28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dvd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmartAutomation -->
+        <test-method status="PASS" signature="testWalmartAutomation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClasses.WalmartLabsTest@4c203ea1]" name="testWalmartAutomation" duration-ms="73616" started-at="2015-12-07T14:33:58Z" data-provider="WalMart e-commerce Transaction" finished-at="2015-12-07T14:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhishek.dhaka28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPhone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmartAutomation -->
+        <test-method status="PASS" signature="testWalmartAutomation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestClasses.WalmartLabsTest@4c203ea1]" name="testWalmartAutomation" duration-ms="126184" started-at="2015-12-07T14:35:12Z" data-provider="WalMart e-commerce Transaction" finished-at="2015-12-07T14:37:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abhishek.dhaka28@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[toys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWalmartAutomation -->
+      </class> <!-- TestClasses.WalmartLabsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
