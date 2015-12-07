@@ -137,5 +137,14 @@ Page Object Model is used which provides ease of maintenance, clear separation b
 also provides easy readibility.
 
 
+CHROME_DRIVER
+
+The executable driver file for chrome browser is in chrome_driver folder
+
+TEST_OUTPUT
+
+Output of test cases executed are stored in test_output folder.
+
+
   
 
