@@ -123,6 +123,8 @@ of the item corresponding to selected item product id.
 
 Automating the new account creation.
 
+Efficiency can be improved by using parallel exceution.
+
 
 
 TECHNICAL CHOICES:
