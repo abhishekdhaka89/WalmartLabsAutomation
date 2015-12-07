@@ -145,6 +145,10 @@ TEST_OUTPUT
 
 Output of test cases executed are stored in test_output folder.
 
+ASSUMPTION:
+
+Assuming that my account has an empty cart i.e. no items are present in the cart initially.
+
 
   
 
