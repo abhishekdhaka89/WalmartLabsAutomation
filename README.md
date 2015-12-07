@@ -145,6 +145,10 @@ TEST_OUTPUT
 
 Output of test cases executed are stored in test_output folder.
 
+TEST_RESOURCES
+
+Excel file with input data is stored in /src/test/resources/WalmartLabsTestdata.xls
+
 ASSUMPTION:
 
 Assuming that my account has an empty cart i.e. no items are present in the cart initially.
