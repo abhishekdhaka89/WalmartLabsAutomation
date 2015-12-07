@@ -16,6 +16,7 @@ Test Data:
 • Search terms: tv, socks, dvd, toys, iPhone
 
 Progamming Language:
+
 Java : Selenium Web Driver using Page object Model for the automating the end to end flow
 TestNG : For executing test cases
 
