@@ -1,6 +1,7 @@
 # WalmartLabsAutomation
 Problem:
-Automate an end-to-end user e-commerce transaction flow using any open source tool for www.walmart.com with an existing customer on Chrome or Safari browser.
+Automate an end-to-end user e-commerce transaction flow using any open source tool for www.walmart.com with an existing customer 
+on Chrome or Safari browser.
 Scenario to automate:
 1. Login using existing account
 2. Perform a search on home page from a pool of key words given below
@@ -17,3 +18,6 @@ Test Data:
 Progamming Language:
 Java : Selenium Web Driver using Page object Model for the automating the end to end flow
 TestNG : For executing test cases
+
+Steps for end to end automation
+
